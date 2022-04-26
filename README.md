@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Farhanuddin Ahmed
+- 👀 I’m interested in developing fluid solver to simulate complex flows using computational fluid mechanics and high performance computing
+- 🌱 I’m currently learning openMPI, openMP, Machine learning
+- 📫 How to reach me masumff@gmail.com
